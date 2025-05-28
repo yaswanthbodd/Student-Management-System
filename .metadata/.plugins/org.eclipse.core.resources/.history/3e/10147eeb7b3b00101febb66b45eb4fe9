@@ -1,0 +1,5 @@
+package com.student.management.entities;
+
+public class Student {
+
+}
